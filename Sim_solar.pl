@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 
-my $csv_file =  "./nakano_data(csv).csv";
+my $csv_file =  "./data(csv).csv";
 my @data = &readCsvFile ($csv_file);
 
 use Fatal qw/ open /;
