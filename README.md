@@ -1,2 +1,2 @@
-Sim_solar
+Sim
 =========
